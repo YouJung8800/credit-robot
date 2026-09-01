@@ -28,4 +28,4 @@ for cx in (165, 215):
 dc.ellipse([140, 253, 160, 273], fill=(255, 201, 201))
 dc.ellipse([220, 253, 240, 273], fill=(255, 201, 201))
 concept.save("images/finished_concept.png")
-print("이미지 3장 생성 완료")
+print("[1/4] 이미지 3장 생성 완료")
